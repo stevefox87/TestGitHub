@@ -2,3 +2,4 @@ sale
 zucchero
 caffè
 pane
+pasta
